@@ -1,4 +1,4 @@
-# Think-Like-a-Coder-Finals
+# Think-Like-a-Coder-The-Finals
 ## Hex Gates (Easy) (My Score: 10/10)
 ![](1-easy.png)
 ## Fizz Buzz 2.0 (Easy) (My Score: 10/10)
